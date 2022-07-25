@@ -8,6 +8,8 @@ npm install
 
 ## Start a Devnet
 
+lbah
+
 ```bash
 pushd devnet
 docker-compose up -d
